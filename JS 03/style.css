@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(84, 131, 122);
+    text-align: center;
+}
+
+.summer{
+    width: 700px;
+    height: 900px;
+    
+    background-color: rgb(255, 185, 93);
+    border-radius: 28px;
+    box-shadow: rgb(255, 255, 255);
+    margin: 80px auto;
+    padding:30px;
+}
+
+.winter{
+    width: 700px;
+    height: 900px;
+    
+    background-color: rgb(255, 185, 93);
+    border-radius: 28px;
+    box-shadow: rgb(255, 255, 255);
+    margin: 80px auto;
+    padding:30px;
+}
+
+.autumn{
+    width: 600px;
+    height: 700px;
+    
+    background-color: rgb(255, 185, 93);
+    border-radius: 28px;
+    box-shadow: rgb(255, 255, 255);
+    margin: 80px auto;
+    padding:30px;
+}
+
+.spring{
+    width: 700px;
+    height: 900px;
+    
+    background-color: rgb(255, 185, 93);
+    border-radius: 28px;
+    box-shadow: rgb(255, 255, 255);
+    margin: 80px auto;
+    padding:30px;
+}
+
+.txt{
+    text-align: left;
+    color: white;
+    font-size: x-large;
+}
+
